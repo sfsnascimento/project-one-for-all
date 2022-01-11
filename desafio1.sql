@@ -152,7 +152,7 @@ VALUES
 	('Finding My Traditions', 7, 179),
 	('Walking And Man', 7, 229),
 	('Hard And Time', 7, 135),
-	("Honey, I'm A Lone Wolf", 7, 15),
+	("Honey, I'm A Lone Wolf", 7, 150),
 	("She Thinks I Won't Stay Tonight", 8, 166),
 	("He Heard You're Bad For Me", 8, 154),
 	("He Hopes We Can't Stay", 8, 210),
