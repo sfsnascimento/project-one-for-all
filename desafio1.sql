@@ -127,7 +127,7 @@ VALUES
 INSERT INTO cancoes (cancao, album_id, duracao_segundos)
 VALUES
 	('Soul For Us', 1, 200),
-	('Reflection Of Magic', 1, 163),
+	('Reflections Of Magic', 1, 163),
 	('Dance With Her Own', 1, 116),
 	('Troubles Of My Inner Fire', 2, 203),
 	('Time Fireworks', 2, 152),
